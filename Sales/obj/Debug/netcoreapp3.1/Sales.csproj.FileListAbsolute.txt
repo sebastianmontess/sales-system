@@ -1,0 +1,13 @@
+C:\Users\junor\source\repos\Sales\Sales\obj\Debug\netcoreapp3.1\Sales.csprojAssemblyReference.cache
+C:\Users\junor\source\repos\Sales\Sales\obj\Debug\netcoreapp3.1\Sales.AssemblyInfoInputs.cache
+C:\Users\junor\source\repos\Sales\Sales\obj\Debug\netcoreapp3.1\Sales.AssemblyInfo.cs
+C:\Users\junor\source\repos\Sales\Sales\obj\Debug\netcoreapp3.1\Sales.csproj.CoreCompileInputs.cache
+C:\Users\junor\source\repos\Sales\Sales\bin\Debug\netcoreapp3.1\Sales.exe
+C:\Users\junor\source\repos\Sales\Sales\bin\Debug\netcoreapp3.1\Sales.deps.json
+C:\Users\junor\source\repos\Sales\Sales\bin\Debug\netcoreapp3.1\Sales.runtimeconfig.json
+C:\Users\junor\source\repos\Sales\Sales\bin\Debug\netcoreapp3.1\Sales.runtimeconfig.dev.json
+C:\Users\junor\source\repos\Sales\Sales\bin\Debug\netcoreapp3.1\Sales.dll
+C:\Users\junor\source\repos\Sales\Sales\bin\Debug\netcoreapp3.1\Sales.pdb
+C:\Users\junor\source\repos\Sales\Sales\obj\Debug\netcoreapp3.1\Sales.dll
+C:\Users\junor\source\repos\Sales\Sales\obj\Debug\netcoreapp3.1\Sales.pdb
+C:\Users\junor\source\repos\Sales\Sales\obj\Debug\netcoreapp3.1\Sales.genruntimeconfig.cache
